@@ -5,4 +5,4 @@ metadata:
   labels:
     app: message-app
 data:
-  MESSAGE: "The color is Magenta"
+  MESSAGE: "The color is Blue"
